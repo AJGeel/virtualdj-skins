@@ -1,0 +1,15 @@
+# Ignore all pre-existing files inside `VirtualDJ/Skins/Default`
+essentials.png
+Essentials.xml
+gfx-basic.png
+gfx-pro.png
+icons_daylight.png
+order
+performance.png
+Performance.xml
+pro.png
+Pro.xml
+screenshot.png
+starter.png
+Starter.xml
+Vertical.xml
